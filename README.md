@@ -28,13 +28,12 @@ docs/ai/
 
 
 company-ai-playbook/
-├── README.md
-├── architecture.md
-├── testing.md
-├── security.md
-├── release.md
-└── standards/
-
+- ├── README.md
+- ├── architecture.md
+- ├── testing.md
+- ├── security.md
+- ├── release.md
+- └── standards/
 
 ---
 

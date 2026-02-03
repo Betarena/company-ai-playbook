@@ -1,3 +1,5 @@
+Current stable version: v1.0.0
+
 # Company AI Playbook
 
 This repository is the **single source of truth** for how we design, build, test, and ship software.
@@ -61,4 +63,4 @@ When working in any code repo:
 2. Follow the standards defined here
 3. Prefer the smallest possible change
 4. Never introduce new dependencies without approval
-5. Never redesign UI unless explicitly asked.
+5. Never redesign UI unless explicitly asked

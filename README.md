@@ -27,15 +27,15 @@ docs/ai/
 ## Structure
 
 
-company-ai-playbook/
-├── README.md
-├── architecture.md
-├── testing.md
-├── security.md
-├── release.md
-└── standards/
-├── backend.md
-└── frontend.md
+> company-ai-playbook/
+> ├── README.md
+> ├── architecture.md
+> ├── testing.md
+> ├── security.md
+> ├── release.md
+> └── standards/
+> ├── backend.md
+> └── frontend.md
 
 
 ---

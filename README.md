@@ -1,4 +1,4 @@
-Current stable version: v1.0.2
+Current stable version: v1.0.5
 
 # Company AI Playbook
 

@@ -67,4 +67,4 @@ When working in any code repo:
 
 ## Checklist
 
-
+https://github.com/Betarena/company-ai-playbook/blob/main/CHECKLIST.md

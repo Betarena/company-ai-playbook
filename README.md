@@ -64,3 +64,7 @@ When working in any code repo:
 3. Prefer the smallest possible change
 4. Never introduce new dependencies without approval
 5. Never redesign UI unless explicitly asked
+
+## Checklist
+
+

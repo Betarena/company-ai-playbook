@@ -1,0 +1,5 @@
+Read docs/ai/CONTEXT.md and follow it as the source of truth.
+Follow the workflow: (1) locate patterns with file paths (2) plan + files (3) implement minimal diffs (4) tests for behavior changes (5) verification checklist.
+No refactors or UI redesign unless explicitly asked.
+No writes to persistent storage unless I say "writes approved". Verification steps must be read-only by default.
+If repo run/infra details are missing, ask—do not guess.
